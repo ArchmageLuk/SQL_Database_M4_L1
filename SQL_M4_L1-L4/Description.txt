@@ -1,0 +1,8 @@
+﻿TO DO:
+
+Lesson 3
+1. Write the connection string (done)
+2. Setup primary and foreign keys
+3. Connect all and create the Database
+
+Lesson 4
